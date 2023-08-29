@@ -17,7 +17,7 @@ There will be four major phases in this document:\
 > _Ce document détaillera le processus, les étapes et les outils nécessaires au développement du site._\
 > _Il y aura quatre grandes phases dans ce document :_\
 
-- _La phase de pré-développement_
-- _La phase de développement front-end_
-- _La phase de développement back-end_
-- _La phase de post-développement_
+> - _La phase de pré-développement_
+> - _La phase de développement front-end_
+> - _La phase de développement back-end_
+> - _La phase de post-développement_
