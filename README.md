@@ -1,6 +1,6 @@
 <!--! PROJECT DESCRIPTION -->
 
-# AnangoPlan_APwebDevelopment
+# AnangoPlan_APwebDevelopment - Project Description
 
 This is the full stack development of **AnangoPlan**.\
 AnangoPlan is a brand for the mass market.\
@@ -27,6 +27,7 @@ There will be four major phases in this document :
 - [Pre-development phase / Phase de pré-développement](#pre-development-phase--phase-de-pré-développement)
 
   - [Purpose and Goals / But et Objectifs](#purpose-and-goals--but-et-objectifs)
+
   - [Website features / Fonctionnalités du site](#website-features--fonctionnalités-du-site)
 
     - [Essential features / Fonctionnalités essentielles](#essential-features--fonctionnalités-essentielles)
@@ -49,3 +50,34 @@ There will be four major phases in this document :
       - [Newsletter / Bulletin d'information](#newsletter--bulletin-dinformation)
       - [FAQ / FAQ](#faq--faq)
       - [chatbot + generative AI / chatbot + IA génératives](#chatbot--generative-ai--chatbot--ia-génératives)
+
+  - [Design and Layout / Design et Mise en page](#design-and-layout--design-et-mise-en-page)
+
+    - [UX design / Design de l'expérience utilisateur](#ux-design--design-de-lexpérience-utilisateur)
+
+      - [User personas / Personas utilisateur](#user-personas--personas-utilisateur)
+      - [User stories / Histoires utilisateur](#user-stories--histoires-utilisateur)
+      - [User flow / Flux utilisateur](#user-flow--flux-utilisateur)
+      - [Wireframes / Maquettes sans design](#wireframes--wireframes)
+      - [Mockups / Maquettes avec design](#mockups--mockups)
+      - [Prototypes / Prototypes](#prototypes--prototypes)
+
+    - [UI design / Design de l'interface utilisateur](#ui-design--design-de-linterface-utilisateur)
+
+      - [Layout / Mise en page](#layout--mise-en-page)
+      - [Color scheme / Palette de couleurs](#color-scheme--palette-de-couleurs)
+      - [Typography / Typographie](#typography--typographie)
+      - [Logo / Logo](#logo--logo)
+      - [Icons / Icônes](#icons--icônes)
+      - [Images / Images](#images--images)
+      - [Video / Vidéo](#video--vidéo)
+      - [Audio / Audio](#audio--audio)
+      - [Animations / Animations](#animations--animations)
+
+    - [Responsive web design / Design web adaptatif](#responsive-web-design--design-web-adaptatif)
+
+      - [Mobile / Mobile](#mobile--mobile)
+      - [Tablet / Tablette](#tablet--tablette)
+      - [Desktop / Ordinateur de bureau](#desktop--ordinateur-de-bureau)
+
+<!-- TODO: Keep working on the table of contents -->
