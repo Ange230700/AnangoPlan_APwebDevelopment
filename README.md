@@ -24,13 +24,13 @@ There will be four major phases in this document :
 
 ## Table of contents / Table des matières
 
-- [Pre-development phase / Phase de pré-développement](#pre-development-phase--phase-de-pré-développement)\
-  - [Purpose and Goals / But et Objectifs](#purpose-and-goals--but-et-objectifs)\
-  - [Website features / Fonctionnalités du site](#website-features--fonctionnalités-du-site)\
-    - [Essential features / Fonctionnalités essentielles](#essential-features--fonctionnalités-essentielles)\
-      - [Home page / Page d'accueil](#home-page--page-daccueil)\
-      - [About page / Page à propos de la compagnie](#about-page--page-à-propos-de-la-compagnie)\
-      - [Contact page / Page de contact](#contact-page--page-de-contact)\
-      - [Login and registration / Connexion et inscription](#login-and-registration--connexion-et-inscription)\
-      - [Online shop / Boutique en ligne](#online-shop--boutique-en-ligne)\
-      - [Social media integration / Intégration des réseaux sociaux](#social-media-integration--intégration-des-réseaux-sociaux)\
+- [Pre-development phase / Phase de pré-développement](#pre-development-phase--phase-de-pré-développement)
+  - [Purpose and Goals / But et Objectifs](#purpose-and-goals--but-et-objectifs)
+  - [Website features / Fonctionnalités du site](#website-features--fonctionnalités-du-site)
+    - [Essential features / Fonctionnalités essentielles](#essential-features--fonctionnalités-essentielles)
+      - [Home page / Page d'accueil](#home-page--page-daccueil)
+      - [About page / Page à propos de la compagnie](#about-page--page-à-propos-de-la-compagnie)
+      - [Contact page / Page de contact](#contact-page--page-de-contact)
+      - [Login and registration / Connexion et inscription](#login-and-registration--connexion-et-inscription)
+      - [Online shop / Boutique en ligne](#online-shop--boutique-en-ligne)
+      - [Social media integration / Intégration des réseaux sociaux](#social-media-integration--intégration-des-réseaux-sociaux)
