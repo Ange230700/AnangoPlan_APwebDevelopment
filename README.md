@@ -5,7 +5,7 @@
 This is the full stack development of **AnangoPlan**.\
 AnangoPlan is a brand for the mass market.\
 This document will detail the process, the steps and the tools necessary to develop the site.\
-There will be four major phases in this document:
+There will be four major phases in this document :
 
 - The pre-development phase
 - The front-end development phase
