@@ -228,3 +228,5 @@ There will be four major phases in this document :
 ### IV. F. Website powered by ... / Site web créé avec ...
 
 ### IV. G. Acknowledgements / Mentions spéciales
+
+<!-- TODO: check if table of contents list item are properly linked to the section -->
