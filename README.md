@@ -100,7 +100,7 @@ There will be four major phases in this document :
   - [IV. C. Monitoring / Monitoring](#iv-c-monitoring--monitoring)
   - [IV. D. Maintenance / Maintenance](#iv-d-maintenance--maintenance)
   - [IV. E. Process / Démarche](#iv-e-process--démarche)
-  - [IV. F. Website powered by ... / Site web créé avec ...](#iv-f-website-powered-by--site-web-créé-avec)
+  - [IV. F. Website powered by ... / Site web créé avec ...](#iv-f-website-powered-by---site-web-créé-avec-)
   - [IV. G. Acknowledgements / Mentions spéciales](#iv-g-acknowledgements--mentions-spéciales)
 
 ## I. Pre-development phase / Phase de pré-développement
