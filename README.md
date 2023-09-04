@@ -26,9 +26,9 @@ There will be four major phases in this document :
 
 - [I. Pre-development phase / Phase de pré-développement](#i-pre-development-phase--phase-de-pré-développement)
 
-  - [I. A. Purpose and Goals / But et Objectifs](#purpose-and-goals--but-et-objectifs)
+  - [I. A. Purpose and Goals / But et Objectifs](#i-a-purpose-and-goals--but-et-objectifs)
 
-  - [I. B. Website features / Fonctionnalités du site](#website-features--fonctionnalités-du-site)
+  - [I. B. Website features / Fonctionnalités du site](#i-b-website-features--fonctionnalités-du-site)
 
     - [I. B. 1. Essential features / Fonctionnalités essentielles](#essential-features--fonctionnalités-essentielles)
 
