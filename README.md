@@ -87,7 +87,7 @@ There will be four major phases in this document :
   - [II. B. Front-end style guide / Guide de style front-end](#ii-b-front-end-style-guide--guide-de-style-front-end)
     - [II. B. 1. Typography / Typographie](#ii-b-1-typography--typographie)
     - [II. B. 2. Color scheme / Palette de couleurs](#ii-b-2-color-scheme--palette-de-couleurs)
-    - [II. B. 3. Breakpoints / Points de rupture](#ii-b-3-breakpoints--point-de-rupture)
+    - [II. B. 3. Breakpoints / Points de rupture](#ii-b-3-breakpoints--points-de-rupture)
   - [II. C. Overview / Aperçu](#ii-c-overview--aperçu)
     - [II. C. 1. Screenshots / Captures d'écran](#ii-c-1-screenshots--captures-décran)
 - [III. Back-end development phase / Phase de développement back-end](#iii-back-end-development-phase--phase-de-développement-back-end)
