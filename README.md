@@ -102,3 +102,129 @@ There will be four major phases in this document :
   - [Process / Démarche](#process--démarche)
   - [Website powered by ... / Site web créé avec ...](#website-powered-by--site-web-créé-avec)
   - [Acknowledgements / Mentions spéciales](#acknowledgements--mentions-spéciales)
+
+## Pre-development phase / Phase de pré-développement
+
+### Purpose and Goals / But et Objectifs
+
+### Website features / Fonctionnalités du site
+
+#### Essential features / Fonctionnalités essentielles
+
+##### Home page / Page d'accueil
+
+##### About page / Page à propos de la compagnie
+
+##### Contact page / Page de contact
+
+##### Login and registration / Connexion et inscription
+
+##### Online shop / Boutique en ligne
+
+##### Social media integration / Intégration des réseaux sociaux
+
+##### Privacy policy / Politique de confidentialité
+
+##### Terms and conditions / Conditions générales
+
+##### Cookies policy / Politique de cookies
+
+##### Site map / Plan du site
+
+#### Less essential features / Fonctionnalités moins essentielles
+
+##### Optional Languages / Langues optionnelles
+
+##### Blog / Blog
+
+##### Newsletter / Bulletin d'information
+
+##### FAQ / FAQ
+
+##### chatbot + generative AI / chatbot + IA générative
+
+### Design and Layout / Design et Mise en page
+
+#### UX design / Design de l'expérience utilisateur
+
+##### User personas / Personas utilisateur
+
+##### User stories / Histoires utilisateur
+
+##### User flow / Flux utilisateur
+
+##### Wireframes / Maquettes sans design
+
+##### Mockups / Maquettes avec design
+
+##### Prototypes / Prototypes
+
+#### UX-UI technical watch / Veille technique UX-UI
+
+#### UI design / Design de l'interface utilisateur
+
+##### Layout / Mise en page
+
+##### Color scheme / Palette de couleurs
+
+##### Typography / Typographie
+
+##### Logo / Logo
+
+##### Icons / Icônes
+
+##### Images / Images
+
+##### Video / Vidéo
+
+##### Audio / Audio
+
+##### Animations / Animations
+
+#### Responsive web design / Design web adaptatif
+
+##### Mobile / Mobile
+
+##### Tablet / Tablette
+
+##### Laptop / Ordinateur portable
+
+## Front-end development phase / Phase de développement front-end
+
+### Front-end technical watch / Veille technique front-end
+
+### Front-end style guide / Guide de style front-end
+
+#### Typography / Typographie
+
+#### Color scheme / Palette de couleurs
+
+#### Breakpoints / Points de rupture
+
+### Overview / Aperçu
+
+#### Screenshots / Captures d'écran
+
+## Back-end development phase / Phase de développement back-end
+
+### Back-end technical watch / Veille technique back-end
+
+### Domain name / Nom de domaine
+
+### Hosting / Hébergement
+
+## Post-development phase / Phase de post-développement
+
+### Testing / Tests
+
+### Deployment / Déploiement
+
+### Monitoring / Monitoring
+
+### Maintenance / Maintenance
+
+### Process / Démarche
+
+### Website powered by ... / Site web créé avec ...
+
+### Acknowledgements / Mentions spéciales
