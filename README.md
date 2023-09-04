@@ -3,7 +3,7 @@
 # AnangoPlan_APwebDevelopment - Project Description
 
 This is the full stack development of **AnangoPlan**.\
-AnangoPlan is a brand for the mass market.\
+AnangoPlan is for the mass market.\
 This document will detail the process, the steps and the tools necessary to develop the site.\
 There will be four major phases in this document :
 
@@ -13,7 +13,7 @@ There will be four major phases in this document :
 - The post-development phase
 
 > _Il s'agit du développement complet du site web *AnangoPlan*._\
-> _AnangoPlan est une marque pour la vente de masse._\
+> _AnangoPlan est pour la vente de masse._\
 > _Ce document détaillera le processus, les étapes et les outils nécessaires au développement du site._\
 > _Il y aura quatre grandes phases dans ce document :_
 >
@@ -49,7 +49,7 @@ There will be four major phases in this document :
       - [Blog / Blog](#blog--blog)
       - [Newsletter / Bulletin d'information](#newsletter--bulletin-dinformation)
       - [FAQ / FAQ](#faq--faq)
-      - [chatbot + generative AI / chatbot + IA génératives](#chatbot--generative-ai--chatbot--ia-génératives)
+      - [chatbot + generative AI / chatbot + IA générative](#chatbot--generative-ai--chatbot--ia-générative)
 
   - [Design and Layout / Design et Mise en page](#design-and-layout--design-et-mise-en-page)
 
@@ -61,6 +61,8 @@ There will be four major phases in this document :
       - [Wireframes / Maquettes sans design](#wireframes--wireframes)
       - [Mockups / Maquettes avec design](#mockups--mockups)
       - [Prototypes / Prototypes](#prototypes--prototypes)
+
+    - [UX-UI technical watch / Veille technique UX-UI](#ux-ui-technical-watch--veille-technique-ux-ui)
 
     - [UI design / Design de l'interface utilisateur](#ui-design--design-de-linterface-utilisateur)
 
@@ -78,6 +80,25 @@ There will be four major phases in this document :
 
       - [Mobile / Mobile](#mobile--mobile)
       - [Tablet / Tablette](#tablet--tablette)
-      - [Desktop / Ordinateur de bureau](#desktop--ordinateur-de-bureau)
+      - [Laptop / Ordinateur portable](#laptop--ordinateur-portable)
 
-<!-- TODO: Keep working on the table of contents -->
+- [Front-end development phase / Phase de développement front-end](#front-end-development-phase--phase-de-développement-front-end)
+  - [Front-end technical watch / Veille technique front-end](#front-end-technical-watch--veille-technique-front-end)
+  - [Front-end style guide / Guide de style front-end](#front-end-style-guide--guide-de-style-front-end)
+    - [Typography / Typographie](#typography--typographie)
+    - [Color scheme / Palette de couleurs](#color-scheme--palette-de-couleurs)
+    - [Breakpoints / Points de rupture](#breakpoints--point-de-rupture)
+  - [Overview / Aperçu](#overview--aperçu)
+    - [Screenshots / Captures d'écran](#screenshots--captures-décran)
+- [Back-end development phase / Phase de développement back-end](#back-end-development-phase--phase-de-développement-back-end)
+  - [Back-end technical watch / Veille technique back-end](#back-end-technical-watch--veille-technique-back-end)
+  - [Domain name / Nom de domaine](#domain-name--nom-de-domaine)
+  - [Hosting / Hébergement](#hosting--hébergement)
+- [Post-development phase / Phase de post-développement](#post-development-phase--phase-de-post-développement)
+  - [Testing / Tests](#testing--tests)
+  - [Deployment / Déploiement](#deployment--déploiement)
+  - [Monitoring / Monitoring](#monitoring--monitoring)
+  - [Maintenance / Maintenance](#maintenance--maintenance)
+  - [Process / Démarche](#process--démarche)
+  - [Website powered by ... / Site web créé avec ...](#website-powered-by--site-web-créé-avec)
+  - [Acknowledgements / Mentions spéciales](#acknowledgements--mentions-spéciales)
