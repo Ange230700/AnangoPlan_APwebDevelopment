@@ -24,63 +24,63 @@ There will be four major phases in this document :
 
 ## Table of contents / Table des matières
 
-- [Pre-development phase / Phase de pré-développement](#pre-development-phase--phase-de-pré-développement)
+- [I. Pre-development phase / Phase de pré-développement](#pre-development-phase--phase-de-pré-développement)
 
-  - [Purpose and Goals / But et Objectifs](#purpose-and-goals--but-et-objectifs)
+  - [I. A. Purpose and Goals / But et Objectifs](#purpose-and-goals--but-et-objectifs)
 
-  - [Website features / Fonctionnalités du site](#website-features--fonctionnalités-du-site)
+  - [I. B. Website features / Fonctionnalités du site](#website-features--fonctionnalités-du-site)
 
-    - [Essential features / Fonctionnalités essentielles](#essential-features--fonctionnalités-essentielles)
+    - [I. B. 1. Essential features / Fonctionnalités essentielles](#essential-features--fonctionnalités-essentielles)
 
-      - [Home page / Page d'accueil](#home-page--page-daccueil)
-      - [About page / Page à propos de la compagnie](#about-page--page-à-propos-de-la-compagnie)
-      - [Contact page / Page de contact](#contact-page--page-de-contact)
-      - [Login and registration / Connexion et inscription](#login-and-registration--connexion-et-inscription)
-      - [Online shop / Boutique en ligne](#online-shop--boutique-en-ligne)
-      - [Social media integration / Intégration des réseaux sociaux](#social-media-integration--intégration-des-réseaux-sociaux)
-      - [Privacy policy / Politique de confidentialité](#privacy-policy--politique-de-confidentialité)
-      - [Terms and conditions / Conditions générales](#terms-and-conditions--conditions-générales)
-      - [Cookies policy / Politique de cookies](#cookies-policy--politique-de-cookies)
-      - [Site map / Plan du site](#site-map--plan-du-site)
+      - [I. B. 1. a. Home page / Page d'accueil](#home-page--page-daccueil)
+      - [I. B. 1. b. About page / Page à propos de la compagnie](#about-page--page-à-propos-de-la-compagnie)
+      - [I. B. 1. c. Contact page / Page de contact](#contact-page--page-de-contact)
+      - [I. B. 1. d. Login and registration / Connexion et inscription](#login-and-registration--connexion-et-inscription)
+      - [I. B. 1. e. Online shop / Boutique en ligne](#online-shop--boutique-en-ligne)
+      - [I. B. 1. f. Social media integration / Intégration des réseaux sociaux](#social-media-integration--intégration-des-réseaux-sociaux)
+      - [I. B. 1. g. Privacy policy / Politique de confidentialité](#privacy-policy--politique-de-confidentialité)
+      - [I. B. 1. h. Terms and conditions / Conditions générales](#terms-and-conditions--conditions-générales)
+      - [I. B. 1. i. Cookies policy / Politique de cookies](#cookies-policy--politique-de-cookies)
+      - [I. B. 1. j. Site map / Plan du site](#site-map--plan-du-site)
 
-    - [Less essential features / Fonctionnalités moins essentielles](#less-essential-features--fonctionnalités-moins-essentielles)
+    - [I. B. 2. Less essential features / Fonctionnalités moins essentielles](#less-essential-features--fonctionnalités-moins-essentielles)
 
-      - [Optional Languages / Langues optionnelles](#optional-languages--langues-optionnelles)
-      - [Blog / Blog](#blog--blog)
-      - [Newsletter / Bulletin d'information](#newsletter--bulletin-dinformation)
-      - [FAQ / FAQ](#faq--faq)
-      - [chatbot + generative AI / chatbot + IA générative](#chatbot--generative-ai--chatbot--ia-générative)
+      - [I. B. 2. a. Optional Languages / Langues optionnelles](#optional-languages--langues-optionnelles)
+      - [I. B. 2. b. Blog / Blog](#blog--blog)
+      - [I. B. 2. c. Newsletter / Bulletin d'information](#newsletter--bulletin-dinformation)
+      - [I. B. 2. d. FAQ / FAQ](#faq--faq)
+      - [I. B. 2. e. chatbot + generative AI / chatbot + IA générative](#chatbot--generative-ai--chatbot--ia-générative)
 
-  - [Design and Layout / Design et Mise en page](#design-and-layout--design-et-mise-en-page)
+  - [I. C. Design and Layout / Design et Mise en page](#design-and-layout--design-et-mise-en-page)
 
-    - [UX design / Design de l'expérience utilisateur](#ux-design--design-de-lexpérience-utilisateur)
+    - [I. C. 1. UX design / Design de l'expérience utilisateur](#ux-design--design-de-lexpérience-utilisateur)
 
-      - [User personas / Personas utilisateur](#user-personas--personas-utilisateur)
-      - [User stories / Histoires utilisateur](#user-stories--histoires-utilisateur)
-      - [User flow / Flux utilisateur](#user-flow--flux-utilisateur)
-      - [Wireframes / Maquettes sans design](#wireframes--wireframes)
-      - [Mockups / Maquettes avec design](#mockups--mockups)
-      - [Prototypes / Prototypes](#prototypes--prototypes)
+      - [I. C. 1. a. User personas / Personas utilisateur](#user-personas--personas-utilisateur)
+      - [I. C. 1. b. User stories / Histoires utilisateur](#user-stories--histoires-utilisateur)
+      - [I. C. 1. c. User flow / Flux utilisateur](#user-flow--flux-utilisateur)
+      - [I. C. 1. d. Wireframes / Maquettes sans design](#wireframes--wireframes)
+      - [I. C. 1. e. Mockups / Maquettes avec design](#mockups--mockups)
+      - [I. C. 1. f. Prototypes / Prototypes](#prototypes--prototypes)
 
-    - [UX-UI technical watch / Veille technique UX-UI](#ux-ui-technical-watch--veille-technique-ux-ui)
+    - [I. C. 2. UX-UI technical watch / Veille technique UX-UI](#ux-ui-technical-watch--veille-technique-ux-ui)
 
-    - [UI design / Design de l'interface utilisateur](#ui-design--design-de-linterface-utilisateur)
+    - [I. C. 3. UI design / Design de l'interface utilisateur](#ui-design--design-de-linterface-utilisateur)
 
-      - [Layout / Mise en page](#layout--mise-en-page)
-      - [Color scheme / Palette de couleurs](#color-scheme--palette-de-couleurs)
-      - [Typography / Typographie](#typography--typographie)
-      - [Logo / Logo](#logo--logo)
-      - [Icons / Icônes](#icons--icônes)
-      - [Images / Images](#images--images)
-      - [Video / Vidéo](#video--vidéo)
-      - [Audio / Audio](#audio--audio)
-      - [Animations / Animations](#animations--animations)
+      - [I. C. 3. a. Layout / Mise en page](#layout--mise-en-page)
+      - [I. C. 3. b. Color scheme / Palette de couleurs](#color-scheme--palette-de-couleurs)
+      - [I. C. 3. c. Typography / Typographie](#typography--typographie)
+      - [I. C. 3. d. Logo / Logo](#logo--logo)
+      - [I. C. 3. e. Icons / Icônes](#icons--icônes)
+      - [I. C. 3. f. Images / Images](#images--images)
+      - [I. C. 3. g. Video / Vidéo](#video--vidéo)
+      - [I. C. 3. h. Audio / Audio](#audio--audio)
+      - [I. C. 3. i. Animations / Animations](#animations--animations)
 
-    - [Responsive web design / Design web adaptatif](#responsive-web-design--design-web-adaptatif)
+    - [I. C. 4. Responsive web design / Design web adaptatif](#responsive-web-design--design-web-adaptatif)
 
-      - [Mobile / Mobile](#mobile--mobile)
-      - [Tablet / Tablette](#tablet--tablette)
-      - [Laptop / Ordinateur portable](#laptop--ordinateur-portable)
+      - [I. C. 4. a. Mobile / Mobile](#mobile--mobile)
+      - [I. C. 4. b. Tablet / Tablette](#tablet--tablette)
+      - [I. C. 4. c. Laptop / Ordinateur portable](#laptop--ordinateur-portable)
 
 - [Front-end development phase / Phase de développement front-end](#front-end-development-phase--phase-de-développement-front-end)
   - [Front-end technical watch / Veille technique front-end](#front-end-technical-watch--veille-technique-front-end)
@@ -103,91 +103,91 @@ There will be four major phases in this document :
   - [Website powered by ... / Site web créé avec ...](#website-powered-by--site-web-créé-avec)
   - [Acknowledgements / Mentions spéciales](#acknowledgements--mentions-spéciales)
 
-## Pre-development phase / Phase de pré-développement
+## I. Pre-development phase / Phase de pré-développement
 
-### Purpose and Goals / But et Objectifs
+### I. A. Purpose and Goals / But et Objectifs
 
-### Website features / Fonctionnalités du site
+### I. B. Website features / Fonctionnalités du site
 
-#### Essential features / Fonctionnalités essentielles
+#### I. B. 1. Essential features / Fonctionnalités essentielles
 
-##### Home page / Page d'accueil
+##### I. B. 1. a. Home page / Page d'accueil
 
-##### About page / Page à propos de la compagnie
+##### I. B. 1. b. About page / Page à propos de la compagnie
 
-##### Contact page / Page de contact
+##### I. B. 1. c. Contact page / Page de contact
 
-##### Login and registration / Connexion et inscription
+##### I. B. 1. d. Login and registration / Connexion et inscription
 
-##### Online shop / Boutique en ligne
+##### I. B. 1. e. Online shop / Boutique en ligne
 
-##### Social media integration / Intégration des réseaux sociaux
+##### I. B. 1. f. Social media integration / Intégration des réseaux sociaux
 
-##### Privacy policy / Politique de confidentialité
+##### I. B. 1. g. Privacy policy / Politique de confidentialité
 
-##### Terms and conditions / Conditions générales
+##### I. B. 1. h. Terms and conditions / Conditions générales
 
-##### Cookies policy / Politique de cookies
+##### I. B. 1. i. Cookies policy / Politique de cookies
 
-##### Site map / Plan du site
+##### I. B. 1. j. Site map / Plan du site
 
-#### Less essential features / Fonctionnalités moins essentielles
+#### I. B. 2. Less essential features / Fonctionnalités moins essentielles
 
-##### Optional Languages / Langues optionnelles
+##### I. B. 2. a. Optional Languages / Langues optionnelles
 
-##### Blog / Blog
+##### I. B. 2. b. Blog / Blog
 
-##### Newsletter / Bulletin d'information
+##### I. B. 2. c. Newsletter / Bulletin d'information
 
-##### FAQ / FAQ
+##### I. B. 2. d. FAQ / FAQ
 
-##### chatbot + generative AI / chatbot + IA générative
+##### I. B. 2. e. chatbot + generative AI / chatbot + IA générative
 
-### Design and Layout / Design et Mise en page
+### I. C. Design and Layout / Design et Mise en page
 
-#### UX design / Design de l'expérience utilisateur
+#### I. C. 1. UX design / Design de l'expérience utilisateur
 
-##### User personas / Personas utilisateur
+##### I. C. 1. a. User personas / Personas utilisateur
 
-##### User stories / Histoires utilisateur
+##### I. C. 1. b. User stories / Histoires utilisateur
 
-##### User flow / Flux utilisateur
+##### I. C. 1. c. User flow / Flux utilisateur
 
-##### Wireframes / Maquettes sans design
+##### I. C. 1. d. Wireframes / Maquettes sans design
 
-##### Mockups / Maquettes avec design
+##### I. C. 1. e. Mockups / Maquettes avec design
 
-##### Prototypes / Prototypes
+##### I. C. 1. f. Prototypes / Prototypes
 
-#### UX-UI technical watch / Veille technique UX-UI
+#### I. C. 2. UX-UI technical watch / Veille technique UX-UI
 
-#### UI design / Design de l'interface utilisateur
+#### I. C. 3. UI design / Design de l'interface utilisateur
 
-##### Layout / Mise en page
+##### I. C. 3. a. Layout / Mise en page
 
-##### Color scheme / Palette de couleurs
+##### I. C. 3. b. Color scheme / Palette de couleurs
 
-##### Typography / Typographie
+##### I. C. 3. c. Typography / Typographie
 
-##### Logo / Logo
+##### I. C. 3. d. Logo / Logo
 
-##### Icons / Icônes
+##### I. C. 3. e. Icons / Icônes
 
-##### Images / Images
+##### I. C. 3. f. Images / Images
 
-##### Video / Vidéo
+##### I. C. 3. g. Video / Vidéo
 
-##### Audio / Audio
+##### I. C. 3. h. Audio / Audio
 
-##### Animations / Animations
+##### I. C. 3. i. Animations / Animations
 
-#### Responsive web design / Design web adaptatif
+#### I. C. 4. Responsive web design / Design web adaptatif
 
-##### Mobile / Mobile
+##### I. C. 4. a. Mobile / Mobile
 
-##### Tablet / Tablette
+##### I. C. 4. b. Tablet / Tablette
 
-##### Laptop / Ordinateur portable
+##### I. C. 4. c. Laptop / Ordinateur portable
 
 ## Front-end development phase / Phase de développement front-end
 
