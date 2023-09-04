@@ -95,13 +95,13 @@ There will be four major phases in this document :
   - [III. B. Domain name / Nom de domaine](#iii-b-domain-name--nom-de-domaine)
   - [III. C. Hosting / Hébergement](#iii-c-hosting--hébergement)
 - [IV. Post-development phase / Phase de post-développement](#iv-post-development-phase--phase-de-post-développement)
-  - [IV. 1. Testing / Tests](#iv-a-testing--tests)
-  - [IV. 2. Deployment / Déploiement](#iv-b-deployment--déploiement)
-  - [IV. 3. Monitoring / Monitoring](#iv-c-monitoring--monitoring)
-  - [IV. 4. Maintenance / Maintenance](#iv-d-maintenance--maintenance)
-  - [IV. 5. Process / Démarche](#iv-e-process--démarche)
-  - [IV. 6. Website powered by ... / Site web créé avec ...](#iv-f-website-powered-by--site-web-créé-avec)
-  - [IV. 7. Acknowledgements / Mentions spéciales](#iv-g-acknowledgements--mentions-spéciales)
+  - [IV. A. Testing / Tests](#iv-a-testing--tests)
+  - [IV. B. Deployment / Déploiement](#iv-b-deployment--déploiement)
+  - [IV. C. Monitoring / Monitoring](#iv-c-monitoring--monitoring)
+  - [IV. D. Maintenance / Maintenance](#iv-d-maintenance--maintenance)
+  - [IV. E. Process / Démarche](#iv-e-process--démarche)
+  - [IV. F. Website powered by ... / Site web créé avec ...](#iv-f-website-powered-by--site-web-créé-avec)
+  - [IV. G. Acknowledgements / Mentions spéciales](#iv-g-acknowledgements--mentions-spéciales)
 
 ## I. Pre-development phase / Phase de pré-développement
 
