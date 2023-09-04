@@ -229,4 +229,4 @@ There will be four major phases in this document :
 
 ### IV. G. Acknowledgements / Mentions spéciales
 
-<!-- TODO: check if table of contents list item are properly linked to the section -->
+<!-- TODO: check if table of contents list items are properly linked to the section -->
