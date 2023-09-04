@@ -24,7 +24,7 @@ There will be four major phases in this document :
 
 ## Table of contents / Table des matières
 
-- [I. Pre-development phase / Phase de pré-développement](#pre-development-phase--phase-de-pré-développement)
+- [I. Pre-development phase / Phase de pré-développement](#i-pre-development-phase--phase-de-pré-développement)
 
   - [I. A. Purpose and Goals / But et Objectifs](#purpose-and-goals--but-et-objectifs)
 
