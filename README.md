@@ -55,12 +55,12 @@ There will be four major phases in this document :
 
     - [I. C. 1. UX design / Design de l'expérience utilisateur](#i-c-1-ux-design--design-de-lexpérience-utilisateur)
 
-      - [I. C. 1. a. User personas / Personas utilisateur](#user-personas--personas-utilisateur)
-      - [I. C. 1. b. User stories / Histoires utilisateur](#user-stories--histoires-utilisateur)
-      - [I. C. 1. c. User flow / Flux utilisateur](#user-flow--flux-utilisateur)
-      - [I. C. 1. d. Wireframes / Maquettes sans design](#wireframes--wireframes)
-      - [I. C. 1. e. Mockups / Maquettes avec design](#mockups--mockups)
-      - [I. C. 1. f. Prototypes / Prototypes](#prototypes--prototypes)
+      - [I. C. 1. a. User personas / Personas utilisateur](#i-c-1-a-user-personas--personas-utilisateur)
+      - [I. C. 1. b. User stories / Histoires utilisateur](#i-c-1-b-user-stories--histoires-utilisateur)
+      - [I. C. 1. c. User flow / Flux utilisateur](#i-c-1-c-user-flow--flux-utilisateur)
+      - [I. C. 1. d. Wireframes / Maquettes sans design](#i-c-1-d-wireframes--wireframes)
+      - [I. C. 1. e. Mockups / Maquettes avec design](#i-c-1-e-mockups--mockups)
+      - [I. C. 1. f. Prototypes / Prototypes](#i-c-1-f-prototypes--prototypes)
 
     - [I. C. 2. UX-UI technical watch / Veille technique UX-UI](#i-c-2-ux-ui-technical-watch--veille-technique-ux-ui)
 
