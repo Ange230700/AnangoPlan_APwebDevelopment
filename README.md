@@ -95,13 +95,13 @@ There will be four major phases in this document :
   - [III. B. Domain name / Nom de domaine](#iii-b-domain-name--nom-de-domaine)
   - [III. C. Hosting / Hébergement](#iii-c-hosting--hébergement)
 - [IV. Post-development phase / Phase de post-développement](#iv-post-development-phase--phase-de-post-développement)
-  - [IV. 1. Testing / Tests](#iv-1-testing--tests)
-  - [IV. 2. Deployment / Déploiement](#iv-2-deployment--déploiement)
-  - [IV. 3. Monitoring / Monitoring](#iv-3-monitoring--monitoring)
-  - [IV. 4. Maintenance / Maintenance](#iv-4-maintenance--maintenance)
-  - [IV. 5. Process / Démarche](#iv-5-process--démarche)
-  - [IV. 6. Website powered by ... / Site web créé avec ...](#iv-6-website-powered-by--site-web-créé-avec)
-  - [IV. 7. Acknowledgements / Mentions spéciales](#iv-7-acknowledgements--mentions-spéciales)
+  - [IV. 1. Testing / Tests](#iv-a-testing--tests)
+  - [IV. 2. Deployment / Déploiement](#iv-b-deployment--déploiement)
+  - [IV. 3. Monitoring / Monitoring](#iv-c-monitoring--monitoring)
+  - [IV. 4. Maintenance / Maintenance](#iv-d-maintenance--maintenance)
+  - [IV. 5. Process / Démarche](#iv-e-process--démarche)
+  - [IV. 6. Website powered by ... / Site web créé avec ...](#iv-f-website-powered-by--site-web-créé-avec)
+  - [IV. 7. Acknowledgements / Mentions spéciales](#iv-g-acknowledgements--mentions-spéciales)
 
 ## I. Pre-development phase / Phase de pré-développement
 
@@ -189,42 +189,42 @@ There will be four major phases in this document :
 
 ##### I. C. 4. c. Laptop / Ordinateur portable
 
-## Front-end development phase / Phase de développement front-end
+## II. Front-end development phase / Phase de développement front-end
 
-### Front-end technical watch / Veille technique front-end
+### II. A. Front-end technical watch / Veille technique front-end
 
-### Front-end style guide / Guide de style front-end
+### II. B. Front-end style guide / Guide de style front-end
 
-#### Typography / Typographie
+#### II. B. 1. Typography / Typographie
 
-#### Color scheme / Palette de couleurs
+#### II. B. 2. Color scheme / Palette de couleurs
 
-#### Breakpoints / Points de rupture
+#### II. B. 3. Breakpoints / Points de rupture
 
-### Overview / Aperçu
+### II. C. Overview / Aperçu
 
-#### Screenshots / Captures d'écran
+#### II. C. 1. Screenshots / Captures d'écran
 
-## Back-end development phase / Phase de développement back-end
+## III. Back-end development phase / Phase de développement back-end
 
-### Back-end technical watch / Veille technique back-end
+### III. A. Back-end technical watch / Veille technique back-end
 
-### Domain name / Nom de domaine
+### III. B. Domain name / Nom de domaine
 
-### Hosting / Hébergement
+### III. C. Hosting / Hébergement
 
-## Post-development phase / Phase de post-développement
+## IV. Post-development phase / Phase de post-développement
 
-### Testing / Tests
+### IV. A. Testing / Tests
 
-### Deployment / Déploiement
+### IV. B. Deployment / Déploiement
 
-### Monitoring / Monitoring
+### IV. C. Monitoring / Monitoring
 
-### Maintenance / Maintenance
+### IV. D. Maintenance / Maintenance
 
-### Process / Démarche
+### IV. E. Process / Démarche
 
-### Website powered by ... / Site web créé avec ...
+### IV. F. Website powered by ... / Site web créé avec ...
 
-### Acknowledgements / Mentions spéciales
+### IV. G. Acknowledgements / Mentions spéciales
