@@ -140,8 +140,8 @@ So, the essential ones are:
 - Cookies policy
 - Site map
 
-> _Donc, les essentielles sont :_
-
+> _Donc, les essentielles sont :_\
+>
 > - _Page d'accueil_
 > - _Page à propos de la compagnie_
 > - _Page de contact_
