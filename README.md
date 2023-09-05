@@ -105,9 +105,48 @@ There will be four major phases in this document :
 
 ## I. Pre-development phase / Phase de pré-développement
 
+This phase is to define the action plan.\
+
+> _Cette phase consiste à définir le plan d'action._\
+
 ### I. A. Purpose / Objectif
 
+The plan is to create an e-commerce website.\
+
+> _Le plan est de créer un site web d'e-commerce._\
+
 ### I. B. Website features / Fonctionnalités du site
+
+I consider two kind of features : the essential ones and the less essential ones.\
+The essential features are the ones that are necessary for the website to have a proper website. They are PRIOR!\
+The less essential features are the ones that are not necessary for the website. They are OPTIONAL!\
+So, the essential ones are:\
+
+- Home page
+- About page
+- Contact page
+- Login and registration
+- Online shop
+- Social media integration
+- Privacy policy
+- Terms and conditions
+- Cookies policy
+- Site map
+
+> _Je considère deux types de fonctionnalités : les essentielles et les moins essentielles._\
+> _Les fonctionnalités essentielles sont celles qui sont nécessaires pour avoir un site web conventionnel. Elles sont PRIORITAIRES!_\
+> _Les fonctionnalités moins essentielles sont celles qui ne sont pas nécessaires pour le site web. Elles sont OPTIONNELLES!_ > _Donc, les essentielles sont :_
+>
+> - _Page d'accueil_
+> - _Page à propos de la compagnie_
+> - _Page de contact_
+> - _Connexion et inscription_
+> - _Boutique en ligne_
+> - _Intégration des réseaux sociaux_
+> - _Politique de confidentialité_
+> - _Conditions générales d'utilisation_
+> - _Politique de cookies_
+> - _Plan du site_
 
 #### I. B. 1. Essential features / Fonctionnalités essentielles
 
