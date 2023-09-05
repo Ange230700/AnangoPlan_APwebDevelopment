@@ -47,7 +47,7 @@ There will be four major phases in this document :
 
       - [I. B. 2. a. Optional Languages / Langues optionnelles](#i-b-2-a-optional-languages--langues-optionnelles)
       - [I. B. 2. b. Blog / Blog](#i-b-2-b-blog--blog)
-      - [I. B. 2. c. Newsletter / Bulletin d'information](#i-b-2-c-newsletter--bulletin-dinformation)
+      - [I. B. 2. c. Newsletter / Newsletter](#i-b-2-c-newsletter--newsletter)
       - [I. B. 2. d. FAQ / FAQ](#i-b-2-d-faq--faq)
       - [I. B. 2. e. chatbot + generative AI / chatbot + IA générative](#i-b-2-e-chatbot--generative-ai--chatbot--ia-générative)
 
@@ -177,7 +177,7 @@ So, the essential ones are:
 
 ##### I. B. 2. b. Blog / Blog
 
-##### I. B. 2. c. Newsletter / Bulletin d'information
+##### I. B. 2. c. Newsletter / Newsletter
 
 ##### I. B. 2. d. FAQ / FAQ
 
