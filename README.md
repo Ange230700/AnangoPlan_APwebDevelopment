@@ -53,28 +53,28 @@ There will be four major phases in this document :
 
   - [I. C. Design and Layout / Design et Mise en page](#i-c-design-and-layout--design-et-mise-en-page)
 
-    - [I. C. 1. UX design / Design de l'expérience utilisateur](#i-c-1-ux-design--design-de-lexpérience-utilisateur)
+    - [I. C. 1. UX-UI technical watch / Veille technique UX-UI](#i-c-1-ux-ui-technical-watch--veille-technique-ux-ui)
 
-      - [I. C. 1. a. User personas / Personas utilisateur](#i-c-1-a-user-personas--personas-utilisateur)
+    - [I. C. 2. UX design / Design de l'expérience utilisateur](#i-c-2-ux-design--design-de-lexpérience-utilisateur)
+
+      <!-- - [I. C. 1. a. User personas / Personas utilisateur](#i-c-1-a-user-personas--personas-utilisateur)
       - [I. C. 1. b. User stories / Histoires utilisateur](#i-c-1-b-user-stories--histoires-utilisateur)
       - [I. C. 1. c. User flow / Flux utilisateur](#i-c-1-c-user-flow--flux-utilisateur)
-      - [I. C. 1. d. Wireframes / Maquettes sans design](#i-c-1-d-wireframes--maquettes-sans-design)
-      - [I. C. 1. e. Mockups / Maquettes avec design](#i-c-1-e-mockups--maquettes-avec-design)
-      - [I. C. 1. f. Prototypes / Prototypes](#i-c-1-f-prototypes--prototypes)
-
-    - [I. C. 2. UX-UI technical watch / Veille technique UX-UI](#i-c-2-ux-ui-technical-watch--veille-technique-ux-ui)
+      - [I. C. 1. f. Prototypes / Prototypes](#i-c-1-f-prototypes--prototypes) -->
 
     - [I. C. 3. UI design / Design de l'interface utilisateur](#i-c-3-ui-design--design-de-linterface-utilisateur)
 
       - [I. C. 3. a. Layout / Mise en page](#i-c-3-a-layout--mise-en-page)
-      - [I. C. 3. b. Color scheme / Palette de couleurs](#i-c-3-b-color-scheme--palette-de-couleurs)
-      - [I. C. 3. c. Typography / Typographie](#i-c-3-c-typography--typographie)
-      - [I. C. 3. d. Logo / Logo](#i-c-3-d-logo--logo)
-      - [I. C. 3. e. Icons / Icônes](#i-c-3-e-icons--icônes)
-      - [I. C. 3. f. Images / Images](#i-c-3-f-images--images)
-      - [I. C. 3. g. Video / Vidéo](#i-c-3-g-video--vidéo)
-      - [I. C. 3. h. Audio / Audio](#i-c-3-h-audio--audio)
-      - [I. C. 3. i. Animations / Animations](#i-c-3-i-animations--animations)
+      - [I. C. 3. b. Wireframes / Maquettes sans design](#i-c-3-b-wireframes--maquettes-sans-design)
+      - [I. C. 3. c. Color scheme / Palette de couleurs](#i-c-3-c-color-scheme--palette-de-couleurs)
+      - [I. C. 3. d. Typography / Typographie](#i-c-3-d-typography--typographie)
+      - [I. C. 3. e. Logo / Logo](#i-c-3-e-logo--logo)
+      - [I. C. 3. f. Icons / Icônes](#i-c-3-f-icons--icônes)
+      - [I. C. 3. g. Images / Images](#i-c-3-g-images--images)
+      - [I. C. 3. h. Mockups / Maquettes avec design](#i-c-3-h-mockups--maquettes-avec-design)
+      - [I. C. 3. i. Video / Vidéo](#i-c-3-i-video--vidéo)
+      - [I. C. 3. j. Audio / Audio](#i-c-3-j-audio--audio)
+      - [I. C. 3. k. Animations / Animations](#i-c-3-k-animations--animations)
 
     - [I. C. 4. Responsive web design / Design web adaptatif](#i-c-4-responsive-web-design--design-web-adaptatif)
 
@@ -105,22 +105,22 @@ There will be four major phases in this document :
 
 ## I. Pre-development phase / Phase de pré-développement
 
-This phase is to define the action plan.\
+This phase is to define the action plan.
 
-> _Cette phase consiste à définir le plan d'action._\
+> _Cette phase consiste à définir le plan d'action._
 
 ### I. A. Purpose / Objectif
 
-The plan is to create an e-commerce website.\
+The plan is to create an e-commerce website.
 
-> _Le plan est de créer un site web d'e-commerce._\
+> _Le plan est de créer un site web d'e-commerce._
 
 ### I. B. Website features / Fonctionnalités du site
 
 I consider two kind of features : the essential ones and the less essential ones.\
 The essential features are the ones that are necessary for the website to have a proper website. They are PRIOR!\
 The less essential features are the ones that are not necessary for the website. They are OPTIONAL!\
-So, the essential ones are:\
+So, the essential ones are:
 
 - Home page
 - About page
@@ -135,8 +135,9 @@ So, the essential ones are:\
 
 > _Je considère deux types de fonctionnalités : les essentielles et les moins essentielles._\
 > _Les fonctionnalités essentielles sont celles qui sont nécessaires pour avoir un site web conventionnel. Elles sont PRIORITAIRES!_\
-> _Les fonctionnalités moins essentielles sont celles qui ne sont pas nécessaires pour le site web. Elles sont OPTIONNELLES!_ > _Donc, les essentielles sont :_
->
+> _Les fonctionnalités moins essentielles sont celles qui ne sont pas nécessaires pour le site web. Elles sont OPTIONNELLES!_\
+> _Donc, les essentielles sont :_
+
 > - _Page d'accueil_
 > - _Page à propos de la compagnie_
 > - _Page de contact_
@@ -184,21 +185,22 @@ So, the essential ones are:\
 
 ### I. C. Design and Layout / Design et Mise en page
 
-#### I. C. 1. UX design / Design de l'expérience utilisateur
+#### I. C. 1. UX-UI technical watch / Veille technique UX-UI
 
-##### I. C. 1. a. User personas / Personas utilisateur
+#### I. C. 2. UX design / Design de l'expérience utilisateur
 
-##### I. C. 1. b. User stories / Histoires utilisateur
+<!--
+##### I. C. 2. a. User personas / Personas utilisateur
 
-##### I. C. 1. c. User flow / Flux utilisateur
+##### I. C. 2. b. User stories / Histoires utilisateur
 
-##### I. C. 1. d. Wireframes / Maquettes sans design
+##### I. C. 2. c. User flow / Flux utilisateur
 
-##### I. C. 1. e. Mockups / Maquettes avec design
+##### I. C. 2. d. Wireframes / Maquettes sans design
 
-##### I. C. 1. f. Prototypes / Prototypes
+##### I. C. 2. e. Mockups / Maquettes avec design
 
-#### I. C. 2. UX-UI technical watch / Veille technique UX-UI
+##### I. C. 2. f. Prototypes / Prototypes -->
 
 #### I. C. 3. UI design / Design de l'interface utilisateur
 
