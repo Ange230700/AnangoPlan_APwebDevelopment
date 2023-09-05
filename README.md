@@ -175,6 +175,22 @@ So, the essential ones are:
 
 #### I. B. 2. Less essential features / Fonctionnalités moins essentielles
 
+And, the less essential ones are:
+
+- Optional languages
+- Blog
+- Newsletter
+- FAQ
+- chatbot + generative AI
+
+> _Et, les moins essentielles sont :_
+>
+> - _Langues optionnelles_
+> - _Blog_
+> - _Newsletter_
+> - _FAQ_
+> - _chatbot + IA générative_
+
 ##### I. B. 2. a. Optional Languages / Langues optionnelles
 
 ##### I. B. 2. b. Blog / Blog
@@ -187,9 +203,25 @@ So, the essential ones are:
 
 ### I. C. Design and Layout / Design et Mise en page
 
+This part is all about visuals.
+
+> _Cette partie concerne tout ce qui est visuel._
+
 #### I. C. 1. UX-UI technical watch / Veille technique UX-UI
 
+This part is to search and identify all the UX/UI good practices when it comes to create an e-commerce website.\
+That's where we'll look for inspiration.
+
+> _Cette partie consiste à rechercher et identifier toutes les bonnes pratiques UX/UI lorsqu'il s'agit de créer un site web d'e-commerce._\
+> _C'est là que nous chercherons l'inspiration._
+
 #### I. C. 2. UX design / Design de l'expérience utilisateur
+
+This part is about all the psychology behind users habits when it comes to use an e-commerce website.\
+We'll try to apply all the good practices we found in the UX-UI technical watch in order to enhance the user experience.
+
+> _Cette partie concerne toute la psychologie derrière les habitudes des utilisateurs lorsqu'il s'agit d'utiliser un site web d'e-commerce._\
+> _Nous essaierons d'appliquer toutes les bonnes pratiques que nous avons trouvées dans la veille technique UX-UI afin d'améliorer l'expérience utilisateur._
 
 <!--
 ##### I. C. 2. a. User personas / Personas utilisateur
@@ -201,6 +233,10 @@ So, the essential ones are:
 ##### I. C. 2. f. Prototypes / Prototypes -->
 
 #### I. C. 3. UI design / Design de l'interface utilisateur
+
+This part is about the design of the website.\
+
+> _Cette partie concerne la conception du site web._
 
 ##### I. C. 3. a. Layout / Mise en page
 
@@ -234,6 +270,10 @@ So, the essential ones are:
 
 ## II. Front-end development phase / Phase de développement front-end
 
+This part is about the development of the part of the website that customers will see.
+
+> _Cette partie concerne le développement de la partie du site web que les clients verront._
+
 ### II. A. Front-end technical watch / Veille technique front-end
 
 ### II. B. Front-end style guide / Guide de style front-end
@@ -250,6 +290,14 @@ So, the essential ones are:
 
 ## III. Back-end development phase / Phase de développement back-end
 
+This part is about the development of the part of the website that customers won't see.\
+It's the part where we manage all the logic that will make the website functional.\
+It's the part where we manage the data of the customers or any other kind of data.
+
+> _Cette partie concerne le développement de la partie du site web que les clients ne verront pas._\
+> _C'est la partie où nous gérons toute la logique qui rendra le site web fonctionnel._\
+> _C'est la partie où nous gérons les données des clients ou tout autre type de données._
+
 ### III. A. Back-end technical watch / Veille technique back-end
 
 ### III. B. Domain name / Nom de domaine
@@ -257,6 +305,10 @@ So, the essential ones are:
 ### III. C. Hosting / Hébergement
 
 ## IV. Post-development phase / Phase de post-développement
+
+This part is about the deployment of the website.
+
+> _Cette partie concerne le déploiement du site web._
 
 ### IV. A. Testing / Tests
 
