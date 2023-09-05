@@ -196,31 +196,31 @@ So, the essential ones are:
 
 ##### I. C. 2. c. User flow / Flux utilisateur
 
-##### I. C. 2. d. Wireframes / Maquettes sans design
-
-##### I. C. 2. e. Mockups / Maquettes avec design
-
 ##### I. C. 2. f. Prototypes / Prototypes -->
 
 #### I. C. 3. UI design / Design de l'interface utilisateur
 
 ##### I. C. 3. a. Layout / Mise en page
 
-##### I. C. 3. b. Color scheme / Palette de couleurs
+##### I. C. 3. b. Wireframes / Maquettes sans design
 
-##### I. C. 3. c. Typography / Typographie
+##### I. C. 3. c. Color scheme / Palette de couleurs
 
-##### I. C. 3. d. Logo / Logo
+##### I. C. 3. d. Typography / Typographie
 
-##### I. C. 3. e. Icons / Icônes
+##### I. C. 3. e. Logo / Logo
 
-##### I. C. 3. f. Images / Images
+##### I. C. 3. f. Icons / Icônes
 
-##### I. C. 3. g. Video / Vidéo
+##### I. C. 3. g. Images / Images
 
-##### I. C. 3. h. Audio / Audio
+##### I. C. 3. h. Mockups / Maquettes avec design
 
-##### I. C. 3. i. Animations / Animations
+##### I. C. 3. i. Video / Vidéo
+
+##### I. C. 3. j. Audio / Audio
+
+##### I. C. 3. k. Animations / Animations
 
 #### I. C. 4. Responsive web design / Design web adaptatif
 
