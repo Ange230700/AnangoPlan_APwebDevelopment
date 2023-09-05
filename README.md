@@ -120,6 +120,13 @@ The plan is to create an e-commerce website.
 I consider two kind of features : the essential ones and the less essential ones.\
 The essential features are the ones that are necessary for the website to have a proper website. They are PRIOR!\
 The less essential features are the ones that are not necessary for the website. They are OPTIONAL!\
+
+> _Je considère deux types de fonctionnalités : les essentielles et les moins essentielles._\
+> _Les fonctionnalités essentielles sont celles qui sont nécessaires pour avoir un site web conventionnel. Elles sont PRIORITAIRES!_\
+> _Les fonctionnalités moins essentielles sont celles qui ne sont pas nécessaires pour le site web. Elles sont OPTIONNELLES!_\
+
+#### I. B. 1. Essential features / Fonctionnalités essentielles
+
 So, the essential ones are:
 
 - Home page
@@ -133,9 +140,6 @@ So, the essential ones are:
 - Cookies policy
 - Site map
 
-> _Je considère deux types de fonctionnalités : les essentielles et les moins essentielles._\
-> _Les fonctionnalités essentielles sont celles qui sont nécessaires pour avoir un site web conventionnel. Elles sont PRIORITAIRES!_\
-> _Les fonctionnalités moins essentielles sont celles qui ne sont pas nécessaires pour le site web. Elles sont OPTIONNELLES!_\
 > _Donc, les essentielles sont :_
 
 > - _Page d'accueil_
@@ -148,8 +152,6 @@ So, the essential ones are:
 > - _Conditions générales d'utilisation_
 > - _Politique de cookies_
 > - _Plan du site_
-
-#### I. B. 1. Essential features / Fonctionnalités essentielles
 
 ##### I. B. 1. a. Home page / Page d'accueil
 
