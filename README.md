@@ -2,8 +2,8 @@
 
 # AnangoPlan_APwebDevelopment - Project Description
 
-This is the full stack development of **AnangoPlan**.\
-AnangoPlan is for the mass market.\
+This is the full stack development of **AnangoPlan (AP)**.\
+**AP** is for the mass market.\
 This document will detail the process, the steps and the tools necessary to develop the site.\
 There will be four major phases in this document :
 
