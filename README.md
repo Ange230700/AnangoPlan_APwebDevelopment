@@ -50,6 +50,7 @@ There will be four major phases in this document :
       - [I. B. 2. c. Newsletter / Newsletter](#i-b-2-c-newsletter--newsletter)
       - [I. B. 2. d. FAQ / FAQ](#i-b-2-d-faq--faq)
       - [I. B. 2. e. chatbot + generative AI / chatbot + IA générative](#i-b-2-e-chatbot--generative-ai--chatbot--ia-générative)
+      - [I. B. 2. f. Dark Mode / Dark Mode](#i-b-2-f-dark-mode--dark-mode)
 
   - [I. C. Design and Layout / Design et Mise en page](#i-c-design-and-layout--design-et-mise-en-page)
 
@@ -182,6 +183,7 @@ And, the less essential ones are:
 - Newsletter
 - FAQ
 - chatbot + generative AI
+- Dark Mode
 
 > _Et, les moins essentielles sont :_
 >
@@ -190,6 +192,7 @@ And, the less essential ones are:
 > - _Newsletter_
 > - _FAQ_
 > - _chatbot + IA générative_
+> - _Dark Mode_
 
 ##### I. B. 2. a. Optional Languages / Langues optionnelles
 
@@ -200,6 +203,8 @@ And, the less essential ones are:
 ##### I. B. 2. d. FAQ / FAQ
 
 ##### I. B. 2. e. chatbot + generative AI / chatbot + IA générative
+
+##### I. B. 2. f. Dark Mode / Dark Mode
 
 ### I. C. Design and Layout / Design et Mise en page
 
