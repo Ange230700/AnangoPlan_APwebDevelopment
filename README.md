@@ -12,8 +12,8 @@ There will be four major phases in this document :
 - The back-end development phase
 - The post-development phase
 
-> _Il s'agit du développement complet du site web *AnangoPlan*._\
-> _AnangoPlan est pour la vente de masse._\
+> _Il s'agit du développement complet du site web **AnangoPlan (AP)**._\
+> _**AP** est pour la vente de masse._\
 > _Ce document détaillera le processus, les étapes et les outils nécessaires au développement du site._\
 > _Il y aura quatre grandes phases dans ce document :_
 >
