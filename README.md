@@ -59,11 +59,6 @@ There will be four major phases in this document :
 
     - [I. C. 2. UX design / Design de l'expérience utilisateur](#i-c-2-ux-design--design-de-lexpérience-utilisateur)
 
-      <!-- - [I. C. 1. a. User personas / Personas utilisateur](#i-c-1-a-user-personas--personas-utilisateur)
-      - [I. C. 1. b. User stories / Histoires utilisateur](#i-c-1-b-user-stories--histoires-utilisateur)
-      - [I. C. 1. c. User flow / Flux utilisateur](#i-c-1-c-user-flow--flux-utilisateur)
-      - [I. C. 1. f. Prototypes / Prototypes](#i-c-1-f-prototypes--prototypes) -->
-
     - [I. C. 3. UI design / Design de l'interface utilisateur](#i-c-3-ui-design--design-de-linterface-utilisateur)
 
       - [I. C. 3. a. Layout / Mise en page](#i-c-3-a-layout--mise-en-page)
