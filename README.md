@@ -33,15 +33,16 @@ There will be four major phases in this document :
     - [I. B. 1. Essential features / Fonctionnalités essentielles](#i-b-1-essential-features--fonctionnalités-essentielles)
 
       - [I. B. 1. a. Home page / Page d'accueil](#i-b-1-a-home-page--page-daccueil)
-      - [I. B. 1. b. About page / Page à propos de la compagnie](#i-b-1-b-about-page--page-à-propos-de-la-compagnie)
-      - [I. B. 1. c. Contact page / Page de contact](#i-b-1-c-contact-page--page-de-contact)
-      - [I. B. 1. d. Login and registration / Connexion et inscription](#i-b-1-d-login-and-registration--connexion-et-inscription)
-      - [I. B. 1. e. Online shop / Boutique en ligne](#i-b-1-e-online-shop--boutique-en-ligne)
-      - [I. B. 1. f. Social media integration / Intégration des réseaux sociaux](#i-b-1-f-social-media-integration--intégration-des-réseaux-sociaux)
-      - [I. B. 1. g. Privacy policy / Politique de confidentialité](#i-b-1-g-privacy-policy--politique-de-confidentialité)
-      - [I. B. 1. h. Terms and conditions / Conditions générales](#i-b-1-h-terms-and-conditions--conditions-générales)
-      - [I. B. 1. i. Cookies policy / Politique de cookies](#i-b-1-i-cookies-policy--politique-de-cookies)
-      - [I. B. 1. j. Site map / Plan du site](#i-b-1-j-site-map--plan-du-site)
+        - [I. B. 1. a. i. Hero section / Section d'accroche](#i-b-1-a-i-hero-section--section-daccroche)
+        - [I. B. 1. a. ii. About page / Page à propos de la compagnie](#i-b-1-a-ii-about-page--page-à-propos-de-la-compagnie)
+        - [I. B. 1. a. iii. Contact page / Page de contact](#i-b-1-a-iii-contact-page--page-de-contact)
+      - [I. B. 1. b. Login and registration / Connexion et inscription](#i-b-1-b-login-and-registration--connexion-et-inscription)
+      - [I. B. 1. c. Online shop / Boutique en ligne](#i-b-1-c-online-shop--boutique-en-ligne)
+      - [I. B. 1. d. Social media integration / Intégration des réseaux sociaux](#i-b-1-d-social-media-integration--intégration-des-réseaux-sociaux)
+      - [I. B. 1. e. Privacy policy / Politique de confidentialité](#i-b-1-e-privacy-policy--politique-de-confidentialité)
+      - [I. B. 1. f. Terms and conditions / Conditions générales](#i-b-1-f-terms-and-conditions--conditions-générales)
+      - [I. B. 1. g. Cookies policy / Politique de cookies](#i-b-1-g-cookies-policy--politique-de-cookies)
+      - [I. B. 1. h. Site map / Plan du site](#i-b-1-h-site-map--plan-du-site)
 
     - [I. B. 2. Less essential features / Fonctionnalités moins essentielles](#i-b-2-less-essential-features--fonctionnalités-moins-essentielles)
 
@@ -156,23 +157,25 @@ So, the essential ones are:
 
 ##### I. B. 1. a. Home page / Page d'accueil
 
-##### I. B. 1. b. About page / Page à propos de la compagnie
+###### I. B. 1. a. i. Hero section / Section d'accroche
 
-##### I. B. 1. c. Contact page / Page de contact
+###### I. B. 1. a. ii. About page / Page à propos de la compagnie
 
-##### I. B. 1. d. Login and registration / Connexion et inscription
+###### I. B. 1. a. iii. Contact page / Page de contact
 
-##### I. B. 1. e. Online shop / Boutique en ligne
+##### I. B. 1. b. Login and registration / Connexion et inscription
 
-##### I. B. 1. f. Social media integration / Intégration des réseaux sociaux
+##### I. B. 1. c. Online shop / Boutique en ligne
 
-##### I. B. 1. g. Privacy policy / Politique de confidentialité
+##### I. B. 1. d. Social media integration / Intégration des réseaux sociaux
 
-##### I. B. 1. h. Terms and conditions / Conditions générales
+##### I. B. 1. e. Privacy policy / Politique de confidentialité
 
-##### I. B. 1. i. Cookies policy / Politique de cookies
+##### I. B. 1. f. Terms and conditions / Conditions générales
 
-##### I. B. 1. j. Site map / Plan du site
+##### I. B. 1. g. Cookies policy / Politique de cookies
+
+##### I. B. 1. h. Site map / Plan du site
 
 #### I. B. 2. Less essential features / Fonctionnalités moins essentielles
 
@@ -239,7 +242,7 @@ We'll try to apply all the good practices we found in the UX-UI technical watch 
 
 #### I. C. 3. UI design / Design de l'interface utilisateur
 
-This part is about the design of the website.\
+This part is about the design of the website.
 
 > _Cette partie concerne la conception du site web._
 
